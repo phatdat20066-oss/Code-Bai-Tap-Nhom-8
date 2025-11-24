@@ -1,0 +1,1 @@
+print("Hello world! Tôi là Ninh Anh Thang")
